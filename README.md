@@ -6,11 +6,12 @@
   <img src="https://github.com/user-attachments/assets/8fa4aab8-a666-4e6f-b736-552f66605e16" width="100">𝖮𝗅𝖺́! 𝖬𝖾 𝖼𝗁𝖺𝗆𝗈 𝖫𝖺𝗒𝗓𝖺 𝖡𝗋𝗎𝗇𝖺.
 </h1>
 
-<div align="center">
-  <img a href="www.linkedin.com/lyzbss" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+<p align="center">
+<a href="https://linkedin.com/in/lyzbss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyzbss" height="30" width="40" /></a>
+<a href="https://instagram.com/lalyz.bruna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalyz.bruna" height="30" width="40" /></a>
+<a href="https://discord.gg/451580232718352391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="451580232718352391" height="40" width="40" /></a>
+</p>
+
 
 
 

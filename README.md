@@ -8,8 +8,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/lyzbss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lyzbss" height="30" width="40" /></a>
-<a href="https://instagram.com/lalyz.bruna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lalyz.bruna" height="30" width="40" /></a>
-<a href="https://discord.gg/451580232718352391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="451580232718352391" height="40" width="40" /></a>
+<a href="https://instagram.com/layzabs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="layzabs" height="30" width="40" /></a>
 </p>
 
 <!-- #linguagens-ferramentas -->
